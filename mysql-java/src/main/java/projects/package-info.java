@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author ghide
- *
- */
-package projects;
